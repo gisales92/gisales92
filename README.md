@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisales92&show_icons=true&theme=radical)
 
-I’m passionate about using my creative problem-solving abilities to build efficient and highly functional web technologies to scale. ’m excited to continue to grow as a developer, becoming more adept at solving complex challenges with a talented team in order to create flawless user experiences.
+I’m passionate about using my creative problem-solving abilities to build efficient and highly functional web technologies to scale. I’m excited to continue to grow as a developer, becoming more adept at solving complex challenges with a talented team in order to create flawless user experiences.
 
 
 <!--
